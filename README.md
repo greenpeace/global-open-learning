@@ -1,5 +1,9 @@
 ### Open Learning - an introduction to Open Source collaboration
 
+# `Don't Panic` - This is going to be fun :D
+
+![unicorn](https://camo.githubusercontent.com/edb384364319f55403db1be7f662e7959c7bfc1d/687474703a2f2f64616e62616c64696e692e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30362f756e69636f726e5f706f6f70696e675f615f7261696e626f775f323070782e6a7067)
+
 **Your mission**:
 
  1. Sign up for a new GitHub account here:  [**http://github.com/signup**][signup]
