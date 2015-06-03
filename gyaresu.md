@@ -1,3 +1,3 @@
-## This is things and stuff
+## This is me saying 'Hello World!'
 
-![asdf](http://example.com/image.png)
+:shipit:
