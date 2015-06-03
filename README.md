@@ -7,6 +7,7 @@
    * VIDEO: [Create a Github account](https://vimeo.com/129705680) (1:15)
  2. Come back here to this repo (repository) and open an _Issue_
    * Your issue doesn't need to say anything specific it will just let me add your username to the Greenpeace GitHub Organisation as well as the [open-learning](https://github.com/orgs/greenpeace/teams/open-learning) team
+   * VIDEO: [Create first Issue](https://vimeo.com/129711400) (1:10)
  3. Add a file to the repo. Name it `your-username.md` (i.e. `gyaresu.md`) and practice putting some text in.
  
  
