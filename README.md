@@ -8,16 +8,16 @@
 
  1. Sign up for a new GitHub account here:  [**http://github.com/signup**][signup]
    * Help Docs: https://help.github.com/articles/signing-up-for-a-new-github-account/
-   * VIDEO THAT I MADE YOU: [Create a Github account][create] (1:15)
+   * **VIDEO THAT I MADE YOU :D** [Create a Github account][create] (1:15)
  2. Come back here to this repo (repository) and open an [Issue][issue]
    * Your issue doesn't need to say anything specific it will just let me add your username to the Greenpeace GitHub Organisation as well as the [open-learning][repo] team
-   * VIDEO THAT I MADE YOU: [Create first Issue][first] (1:10)
+   * **VIDEO THAT I MADE YOU :D** [Create first Issue][first] (1:10)
  3. Add a file to the repo. Name it `your-username.md` (i.e. `gyaresu.md`) and practice putting some text in.
-   * VIDEO THAT I MADE YOU: [Add your first file][addFile] (5:00)
+   * **VIDEO THAT I MADE YOU :D** [Add your first file][addFile] (5:00)
  4. Edit any other file! Find a typo or similar mistake and fix it :+1:
    * https://help.github.com/articles/markdown-basics/
  5. Get a local copy of our [greenpeace/open-learning][repo] repo and work offline
-   * VIDEO THAT I MADE YOU: [Working offline with branches][branches] (8:50)
+   * **VIDEO THAT I MADE YOU :D** [Working offline with branches][branches] (8:50)
    * Windows: https://windows.github.com/
    * Mac: https://mac.github.com/
    * _Linux (commandline): https://git-scm.com/download/linux_
