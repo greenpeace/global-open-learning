@@ -9,7 +9,7 @@
 
 ### 1: Sign up for a new GitHub account here:
 * [**http://github.com/signup**][signup]
-* Help Docs: https://help.github.com/articles/signing-up-for-a-new-github-account/
+* :book: https://help.github.com/articles/signing-up-for-a-new-github-account/
 * :video_camera: [Create a Github account][create] (1:15)
 
 ### 2: Come back here and open an [Issue][issue]
