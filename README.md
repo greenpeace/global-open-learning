@@ -25,6 +25,7 @@
 * https://help.github.com/articles/markdown-basics/
 ![select file][select]
 ![edit file][edit]
+   * (No video this time but maybe someone else will make one and link it here? Hmmm...)
 
 ###5: Get a local copy of our [greenpeace/open-learning][repo] repo and work offline
 * :video_camera: [Videos. For. Everyone!][branches] (8:50)
