@@ -22,7 +22,7 @@
 * :video_camera: [A THIRD VIDEO! Whaaaaaaat?][addFile] (5:00)
 
 ###4: Edit any other file! Find a typo or similar mistake and fix it :+1:
-* https://help.github.com/articles/markdown-basics/
+* :book: [markdown basics][md]
 ![select file][select]
 ![edit file][edit]
    * _No video this time but maybe **someone else** will make one and link it here? Hmmm...)_
@@ -38,11 +38,13 @@
 
 First make sure to have a look at the documentation.
 
-* https://help.github.com/
+* :book: [GitHub Help Documentation][help]
 
 If you're still having problems then email me or submit an Issue: 
-* https://github.com/greenpeace/open-learning/issues
+![issues][issues]
 
+[help]:     https://help.github.com/
+[md]:       https://help.github.com/articles/markdown-basics/
 [account]:  https://help.github.com/articles/signing-up-for-a-new-github-account/
 [edit]:     /files/edit-file.png
 [select]:   /files/select-file.png
