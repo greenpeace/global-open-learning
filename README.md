@@ -17,6 +17,11 @@
 * Your issue doesn't need to say anything specific it will just let me add your username to the Greenpeace GitHuOrganisation as well as the [open-learning][repo] team
 * :video_camera: ["Another instructional video?" You're welcome][first] (1:10)
 
+### 2.5: Make sure you accept the inviation to join the `open-learning` team!
+* :octocat: You may not be able to create a file without being part of the team
+* We'll add you after you say **Hi!** in `Issues`
+
+
 ### 3: Add a file to the repo. Name it `your-username.md` (i.e. `gyaresu.md`) and practice putting some text in.
 ![add a file][add]
 * :video_camera: [A THIRD VIDEO! Whaaaaaaat?][addFile] (5:00)
