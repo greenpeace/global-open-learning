@@ -23,6 +23,8 @@
 
 ###4: Edit any other file! Find a typo or similar mistake and fix it :+1:
 * https://help.github.com/articles/markdown-basics/
+![select file][select]
+![edit file][edit]
 
 ###5: Get a local copy of our [greenpeace/open-learning][repo] repo and work offline
 * :video_camera: [Working offline with branches][branches] (8:50)
@@ -40,6 +42,8 @@ First make sure to have a look at the documentation.
 If you're still having problems then email me or submit an Issue: 
 * https://github.com/greenpeace/open-learning/issues
 
+[edit]:     /files/edit-file.png
+[select]:   /files/select-file.png
 [unicorn]:  /files/unicorn_pooping_a_rainbow_20px.jpg
 [issues]:   /files/issues.png
 [add]:      /files/add-file.png
