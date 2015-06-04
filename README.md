@@ -17,6 +17,11 @@
 * Your issue doesn't need to say anything specific it will just let me add your username to the Greenpeace GitHuOrganisation as well as the [open-learning][repo] team
 * :video_camera: ["Another instructional video?" You're welcome][first] (1:10)
 
+### 2.5 Check for an invitation to join the team
+* It may take a a day until activated :sleeping:
+
+![notifications][notifications]
+
 ### 3: Add a file to the repo. Name it `your-username.md` (i.e. `gyaresu.md`) and practice putting some text in.
 ![add a file][add]
 * :video_camera: [A THIRD VIDEO! Whaaaaaaat?][addFile] (5:00)
@@ -42,20 +47,21 @@ First make sure to have a look at the documentation.
 * :book: [GitHub Help Documentation][help]
 
 If you're still having problems then email me or submit an Issue: 
-![issues][issues]
+![notifications][notifications]
 
-[help]:     https://help.github.com/
-[md]:       https://help.github.com/articles/markdown-basics/
-[account]:  https://help.github.com/articles/signing-up-for-a-new-github-account/
-[edit]:     /files/edit-file.png
-[select]:   /files/select-file.png
-[unicorn]:  /files/unicorn_pooping_a_rainbow_20px.jpg
-[issues]:   /files/issues.png
-[add]:      /files/add-file.png
-[branches]: https://vimeo.com/129730795
-[addFile]:  https://vimeo.com/129717101
-[first]:    https://vimeo.com/129711400
-[signup]:   http://github.com/signup
-[issue]:    https://github.com/greenpeace/open-learning/issues
-[create]:   https://vimeo.com/129705680
-[repo]:     https://github.com/orgs/greenpeace/teams/open-learning
+[help]:           https://help.github.com/
+[md]:             https://help.github.com/articles/markdown-basics/
+[account]:        https://help.github.com/articles/signing-up-for-a-new-github-account/
+[edit]:           /files/edit-file.png
+[select]:         /files/select-file.png
+[unicorn]:        /files/unicorn_pooping_a_rainbow_20px.jpg
+[issues]:         /files/issues.png
+[add]:            /files/add-file.png
+[notifications]:  /files/notifications.png
+[branches]:       https://vimeo.com/129730795
+[addFile]:        https://vimeo.com/129717101
+[first]:          https://vimeo.com/129711400
+[signup]:         http://github.com/signup
+[issue]:          https://github.com/greenpeace/open-learning/issues
+[create]:         https://vimeo.com/129705680
+[repo]:           https://github.com/orgs/greenpeace/teams/open-learning
