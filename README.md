@@ -34,7 +34,8 @@
 * _Linux (commandline): https://git-scm.com/download/linux_
 * _Mac (commandline): https://hub.github.com/_
 
-**HELP I HAVE NO IDEA WHAT I'M DOING!**
+
+####HELP I HAVE NO IDEA WHAT I'M DOING!
 
 First make sure to have a look at the documentation.
 
