@@ -25,7 +25,7 @@
 * :book: [markdown basics][md]
 ![select file][select]
 ![edit file][edit]
-   * _No video this time but maybe **someone else** will make one and link it here? Hmmm...)_
+* _No video this time but maybe **someone else** will make one and link it here? Hmmm...)_
 
 ###5: Get a local copy of our [greenpeace/open-learning][repo] repo and work offline
 * :video_camera: [VIDEOS. FOR. EVERYONE!][branches] (8:50)
