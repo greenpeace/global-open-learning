@@ -9,8 +9,8 @@
 
 ### 1: Sign up for a new GitHub account here:
 * [**http://github.com/signup**][signup]
-* :book: https://help.github.com/articles/signing-up-for-a-new-github-account/
-* :video_camera: [Create a Github account][create] (1:15)
+* :book: [Github account creatinon help docs][account]
+* :video_camera: [I made you a video!][create] (1:15)
 
 ### 2: Come back here and open an [Issue][issue]
 ![issues][issues]
@@ -42,6 +42,7 @@ First make sure to have a look at the documentation.
 If you're still having problems then email me or submit an Issue: 
 * https://github.com/greenpeace/open-learning/issues
 
+[account]:  https://help.github.com/articles/signing-up-for-a-new-github-account/
 [edit]:     /files/edit-file.png
 [select]:   /files/select-file.png
 [unicorn]:  /files/unicorn_pooping_a_rainbow_20px.jpg
