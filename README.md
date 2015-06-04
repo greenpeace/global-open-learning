@@ -9,17 +9,17 @@
 
 ### 1: Sign up for a new GitHub account here:
 * [**http://github.com/signup**][signup]
-* :book: [Github account creatinon help docs][account]
+* :book: [Github account creation help docs][account]
 * :video_camera: [I made you a video!][create] (1:15)
 
 ### 2: Come back here and open an [Issue][issue]
 ![issues][issues]
 * Your issue doesn't need to say anything specific it will just let me add your username to the Greenpeace GitHuOrganisation as well as the [open-learning][repo] team
-* :video_camera: [Create first Issue][first] (1:10)
+* :video_camera: [Another video? You're welcome][first] (1:10)
 
 ### 3: Add a file to the repo. Name it `your-username.md` (i.e. `gyaresu.md`) and practice putting some text in.
 ![add a file][add]
-* :video_camera: [Add your first file][addFile] (5:00)
+* :video_camera: [A THIRD VIDEO! Whaaaaaaat?][addFile] (5:00)
 
 ###4: Edit any other file! Find a typo or similar mistake and fix it :+1:
 * https://help.github.com/articles/markdown-basics/
@@ -27,7 +27,7 @@
 ![edit file][edit]
 
 ###5: Get a local copy of our [greenpeace/open-learning][repo] repo and work offline
-* :video_camera: [Working offline with branches][branches] (8:50)
+* :video_camera: [Videos. For. Everyone!][branches] (8:50)
 * Windows: https://windows.github.com/
 * Mac: https://mac.github.com/
 * _Linux (commandline): https://git-scm.com/download/linux_
