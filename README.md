@@ -1,6 +1,6 @@
 ### Open Learning - an introduction to Open Source collaboration
 
-# `Don't Panic` - This is going to be fun :D
+# `Don't Panic` - This is going to be fun /play vuvuzela
 
 ![unicorn][unicorn]
 
