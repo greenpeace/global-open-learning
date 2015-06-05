@@ -23,13 +23,18 @@
 ![notifications][notifications]
 
 ### 3: Add a file to the repo. Name it `your-username.md` (i.e. `gyaresu.md`) and practice putting some text in.
-![add a file][add]
 * :video_camera: [A THIRD VIDEO! Whaaaaaaat?][addFile] (5:00)
+
+![add a file][add]
+
 
 ###4: Edit any other file! Find a typo or similar mistake and fix it :+1:
 * :book: [markdown basics][md]
+
 ![select file][select]
+
 ![edit file][edit]
+
 * _No video this time but maybe **someone else** will make one and link it here? Hmmm...)_
 
 ###5: Get a local copy of our [greenpeace/open-learning][repo] repo and work offline
