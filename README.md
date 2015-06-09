@@ -14,7 +14,7 @@
 
 ### 2: Come back here and open an [Issue][issue]
 ![issues][issues]
-* Your issue doesn't need to say anything specific it will just let me add your username to the Greenpeace GitHuOrganisation as well as the [open-learning][repo] team
+* Your issue doesn't need to say anything specific it will just let me add your username to the Greenpeace GitHubOrganisation as well as the [open-learning][repo] team
 * :video_camera: ["Another instructional video?" You're welcome][first] (1:10)
 
 ### 2.5 Check for an invitation to join the team
