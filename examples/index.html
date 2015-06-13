@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<head>
+
+<meta charset="UTF-8">
+<title>Example page</title>
+
+</head>
+
+<body>
+
+<h4>This is an example webpage with a simple Javascript function</h4>
+
+</br>
+
+<a href="#" id="clicky">Click</a>
+</br>
+<p id="theElementThatChanges">Click the clicky thing of clickness</p>
+
+<!--
+This is a comment. You won't see it on the main page
+But it lets me link to the documentation on what the Javascript is doing
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/Introduction_to_HTML5
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
+https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
+//-->
+
+<script type="text/javascript">
+var result = 0
+
+function count() {
+  result += 1
+  document.getElementById('theElementThatChanges').textContent = result
+}
+
+document.getElementById('clicky').addEventListener('click', count, false)
+
+</script>
+
+</body>
+</html>
